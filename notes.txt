@@ -1,0 +1,3 @@
+run react app -> npm run dev
+backend server -> python app.py
+reset stats -> curl -X POST http://localhost:5000/api/reset
